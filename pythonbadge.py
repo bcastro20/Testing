@@ -21,6 +21,3 @@ plt.title('Distribution of MSDS 2024 Cohort CPU Number of Cores')
 
 # Display the plot
 plt.show()
-=======
-print("hello")
->>>>>>> 4c54aea0adb00a91e0b5ede2ab4c9a9ef2c730ba
