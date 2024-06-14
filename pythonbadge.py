@@ -16,7 +16,7 @@ plt.hist(column_sixth, bins=10, edgecolor='black')  # Adjust bins as needed
 # Add labels and title
 plt.xlabel('CPU Number of Cores')
 plt.ylabel('Frequency')
-plt.title('Distribution of MSDS 2024 Cohort CPU Number of Cores')
+plt.title('Distribution of MSDS CPU Number of Cores')
 
 # Display the plot
 plt.show()
