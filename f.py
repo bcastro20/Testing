@@ -88,29 +88,4 @@ for n in n_values:
     
     plt.legend(['Binomial', 'Normal'])
     plt.show()
-# Demonstrating Convergence of Binomial to Normal Distribution
-
-
-## Method
-We generated Binomial distributions with increasing values of \( n \) and compared them to the corresponding Normal distributions with the same mean and standard deviation.
-
-## Results
-
-### \( n = 10 \)
-![Binomial vs Normal (n=10)](images/binomial_vs_normal_n10.png)
-
-### \( n = 50 \)
-![Binomial vs Normal (n=50)](images/binomial_vs_normal_n50.png)
-
-### \( n = 100 \)
-![Binomial vs Normal (n=100)](images/binomial_vs_normal_n100.png)
-
-### \( n = 500 \)
-![Binomial vs Normal (n=500)](images/binomial_vs_normal_n500.png)
-
-### \( n = 1000 \)
-![Binomial vs Normal (n=1000)](images/binomial_vs_normal_n1000.png)
-
-## Conclusion
-The histograms clearly show that as \( n \) increases, the Binomial distribution becomes more similar to the Normal distribution, thus visually demonstrating the Central Limit Theorem in action.
-
+ 
